@@ -1,10 +1,5 @@
-# hello-world
-<br>
-Faux description insert
-</br>
+# hello-world-its-ya-girl
 -------------
-<br>
 **ANJALIQUE**
-</br>
-*just a girl tryna code*
+*just a girl tryna code my way out*
 
